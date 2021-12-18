@@ -39,6 +39,26 @@ ul {
 .upper-section {
     display: flex;
     flex-direction: row;
+    background-color: #1F2937;
+    color: white;
+    /* padding: 4px; */
+    padding-top: 60px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.img-placeholder {
+    margin: 0px;
+    padding: 50px;
+    background-color:  rgba(255, 255, 255, 0.582);
+}
+
+.upper-sign-up {
+    background-color: #3882F6;
+    border: none;
+    padding: 10px 35px;
+    color: white;
+    border-radius: 8px;
 }
 
 .info-boxes {
