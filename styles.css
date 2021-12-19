@@ -36,20 +36,32 @@ ul {
     padding-right: 200px;
 }
 
+#title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
 .upper-section {
     display: flex;
     flex-direction: row;
     background-color: #1F2937;
-    color: white;
+    color: #E5E7EB;
+    font-size: 18px;
     /* padding: 4px; */
     padding-top: 60px;
     padding-right: 200px;
     padding-left: 200px;
+    padding-bottom: 150px;
+}
+
+.upper-section-left {
+    padding-right: 60px;
 }
 
 .img-placeholder {
     margin: 0px;
-    padding: 50px;
+    padding: 90px 200px;
     background-color:  rgba(255, 255, 255, 0.582);
 }
 
