@@ -156,3 +156,12 @@ ul {
 .marketing {
     font-weight: lighter;
 }
+
+.footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-weight: lighter;
+    text-align: center;
+}
